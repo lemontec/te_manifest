@@ -11,5 +11,5 @@
     </project>
     <project path="vendor" name="sevsb/vendor" />
 
-    <project path="invoicing" name="lemontec/te_travelchina" />
+    <project path="travelchina" name="lemontec/te_travelchina" />
 </manifest>
